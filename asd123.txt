@@ -1,0 +1,13 @@
+[사용자]
+   ↓
+[Teams UI (Readdy UX)]
+   ↓
+────────────────────────
+[Power Automate]
+[Azure Bot Service]
+[Microsoft Graph API]
+────────────────────────
+[Real-time Media Bot]
+[Azure OpenAI]
+────────────────────────
+[Excel Log Storage]
